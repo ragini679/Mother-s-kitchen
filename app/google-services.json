@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640390696391",
+    "project_id": "mother-s-kitchen-2b6f1",
+    "storage_bucket": "mother-s-kitchen-2b6f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640390696391:android:c039c4ded720f622a91de2",
+        "android_client_info": {
+          "package_name": "com.example.motherskitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlP_KfydICTRnllBgNp4UMr8LTrzoIh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
